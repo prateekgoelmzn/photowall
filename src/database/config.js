@@ -10,13 +10,13 @@
 import * as firebase from 'firebase';
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBVGTOP-Bgp3GDtfOvZcgK149Z6wE1MsAM",
-    authDomain: "photowall-97b6b.firebaseapp.com",
-    databaseURL: "https://photowall-97b6b.firebaseio.com",
-    projectId: "photowall-97b6b",
-    storageBucket: "photowall-97b6b.appspot.com",
-    messagingSenderId: "299902947554",
-    appId: "1:299902947554:web:8e0141f9e88716660dcebb"
+    apiKey: XXXXXXXXXXXXXXXXXXXXXXX,
+    authDomain: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,
+    databaseURL: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,
+    projectId: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,
+    storageBucket: XXXXXXXXXXXXXXXXXXXXXXXXXXXX,
+    messagingSenderId: XXXXXXXXXXXXXXXXXXXXXXXXXXXX,
+    appId: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   };
 
   firebase.initializeApp(firebaseConfig);
